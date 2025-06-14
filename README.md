@@ -1,9 +1,12 @@
 # Aplikasi Informasi Transaksi
 Test frontend Muhammad Fathurachman
 
-Aplikasi Menggunakan Next.js untuk memproses dokumentasi infor masi transaksi dengan kemampuan generasi PDF profesional.
+Aplikasi Menggunakan Next.js untuk memproses dokumentasi informasi transaksi dengan kemampuan generasi PDF profesional.
 
 ## 🚀 Fitur Utama
+
+## 🎥 Demo
+Tonton demo aplikasi di [YouTube](https://youtu.be/Hopl2hw4F2k)
 
 ### Fungsionalitas Inti
 - **Form Dinamis**: Dropdown interaktif untuk Negara, Pelabuhan, dan Barang dengan fungsi pencarian
